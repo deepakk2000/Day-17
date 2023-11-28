@@ -1,0 +1,6 @@
+D:\.net\Day-17\day17lib\bin\Debug\day17lib.dll
+D:\.net\Day-17\day17lib\bin\Debug\day17lib.pdb
+D:\.net\Day-17\day17lib\obj\Debug\day17lib.csproj.AssemblyReference.cache
+D:\.net\Day-17\day17lib\obj\Debug\day17lib.csproj.CoreCompileInputs.cache
+D:\.net\Day-17\day17lib\obj\Debug\day17lib.dll
+D:\.net\Day-17\day17lib\obj\Debug\day17lib.pdb

@@ -1,0 +1,10 @@
+D:\.net\Day-17\Day17\Day17\bin\Debug\Day17.exe.config
+D:\.net\Day-17\Day17\Day17\bin\Debug\Day17.exe
+D:\.net\Day-17\Day17\Day17\bin\Debug\Day17.pdb
+D:\.net\Day-17\Day17\Day17\bin\Debug\day17lib.dll
+D:\.net\Day-17\Day17\Day17\bin\Debug\day17lib.pdb
+D:\.net\Day-17\Day17\Day17\obj\Debug\Day17.csproj.AssemblyReference.cache
+D:\.net\Day-17\Day17\Day17\obj\Debug\Day17.csproj.CoreCompileInputs.cache
+D:\.net\Day-17\Day17\Day17\obj\Debug\Day17.csproj.CopyComplete
+D:\.net\Day-17\Day17\Day17\obj\Debug\Day17.exe
+D:\.net\Day-17\Day17\Day17\obj\Debug\Day17.pdb
